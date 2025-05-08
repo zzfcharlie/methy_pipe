@@ -38,5 +38,5 @@ docker run --rm \
 - `--config`: 配置文件路径(config.R)
 - `--idat-dir`: 原始idat数据目录
 - `--sample-mapping-path`: 样本文件对应关系（sample_mapping_test.xlsx）
-- `--sample-info-path`: 样本信息表(sample_info.csv)
+- `--sample-info-path`: 样本信息表(sample_info_test.csv)
 - `--output-dir`: 分析结果的输出目录
